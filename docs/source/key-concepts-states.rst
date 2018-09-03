@@ -4,7 +4,7 @@ States
 .. topic:: Summary
 
    * *States represent on-ledger facts*
-   * *States are evolved by marking the current state as historic and creating an updated state*
+   * *States evolve by marking the current state as historic and creating an updated state*
    * *Each node has a vault where it stores any relevant states to itself*
 
 .. only:: htmlmode
